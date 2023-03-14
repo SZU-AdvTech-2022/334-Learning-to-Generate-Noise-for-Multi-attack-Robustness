@@ -1,0 +1,7 @@
+@inproceedings{REPO-335,
+    author = "Madaan, Divyam and Shin, Jinwoo and Hwang, Sung Ju",
+    booktitle = "International Conference on Machine Learning",
+    pages = "7279--7289",
+    title = "{Learning to Generate Noise for Multi-attack Robustness}",
+    year = "2021"
+}
